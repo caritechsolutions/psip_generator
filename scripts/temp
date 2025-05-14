@@ -1,0 +1,320 @@
+<?php
+
+function readConfigFile($transportName) {
+    $configFilePath = "/var/www/html/transports/{$transportName}/config.ini";
+    $configData = parse_ini_file($configFilePath, true);
+
+    $channels = [];
+
+    foreach ($configData as $key => $value) {
+        if (strpos($key, 'channel') === 0) {
+            $channels[$value['source_id']] = $value['short_name'];
+        }
+    }
+
+    return $channels;
+}
+
+function convertHexToDecimal($hex) {
+    return hexdec($hex);
+}
+
+function generateAlignedStartTime($offsetHours = 0) {
+    $currentUtcTime = time();
+    $currentUtcTime -= ($currentUtcTime % 10800);  // Align to the nearest 3-hour block
+    return $currentUtcTime + ($offsetHours * 3600);
+}
+
+function generateATSC_EIT_XML($sourceId, $channelName, $startEventId, $pid, $startTime) {
+    $xml = "<ATSC_EIT version=\"5\" source_id=\"$sourceId\" protocol_version=\"0\">
+    <metadata PID=\"$pid\"/>";
+
+    $eventDuration = 1800; // 30 minutes
+    $eventId = $startEventId;
+
+    // Generate events to cover exactly 3 hours
+    for ($i = 0; $i < 6; $i++) { // 3 hours / 0.5 hour per event = 6 events
+        $eventStartTime = $startTime + ($i * $eventDuration);
+        $xml .= "
+    <event event_id=\"0x" . str_pad(dechex($eventId), 4, '0', STR_PAD_LEFT) . "\" start_time=\"" . gmdate('Y-m-d H:i:s', $eventStartTime) . "\" ETM_location=\"0x01\" length_in_seconds=\"$eventDuration\">
+      <title_text>
+        <string language=\"eng\" text=\"{$channelName} Programming\"/>
+      </title_text>
+    </event>";
+        $eventId++;
+    }
+
+    $xml .= "
+  </ATSC_EIT>";
+
+    return [$xml, $eventId];
+}
+
+$transportName = 'ts3'; // Set the transport name here
+
+$channels = readConfigFile($transportName);
+
+$pids = ["0x1d00", "0x1d01", "0x1d02", "0x1d03"];
+$startEventIds = array_fill_keys(array_keys($channels), 0x0000); // Initialize start event IDs for each channel
+$offsetHours = 0; // Start 3 hours earlier for the first EIT file
+
+for ($i = 0; $i < 4; $i++) {
+    $startTime = generateAlignedStartTime($offsetHours);
+    $xmlData = '<?xml version="1.0" encoding="UTF-8"?>
+<tsduck>';
+
+    $pid = convertHexToDecimal($pids[$i]);
+
+    foreach ($channels as $sourceId => $channelName) {
+        [$contentXml, $newStartEventId] = generateATSC_EIT_XML($sourceId, $channelName, $startEventIds[$sourceId], $pid, $startTime);
+        $xmlData .= $contentXml;
+        $startEventIds[$sourceId] = $newStartEventId; // Update the start event ID for the next file
+    }
+
+    $xmlData .= '
+</tsduck>';
+
+    $outputFilePath = "/var/www/html/transports/{$transportName}/{$transportName}_eit" . $i . ".xml";
+    file_put_contents($outputFilePath, $xmlData);
+
+    // Adjust the start time offset for the next EIT file
+    $offsetHours += 3; // Move to the next 3-hour segment
+}
+
+echo "EIT XML files have been saved to the transport directory.";
+
+?>
+
+<?php
+
+function generateETMId($sourceId, $eventId) {
+    // Ensure sourceId is in hexadecimal format
+    $sourceIdHex = sprintf('%04X', $sourceId);
+
+    // Convert eventId to binary and ensure it is a 14-bit number
+    $eventIdBinary = str_pad(decbin($eventId), 14, '0', STR_PAD_LEFT);
+
+    // Drop the two MSB and append '10' to the right (LSB side)
+    $modifiedEventIdBinary = substr($eventIdBinary, 2) . '10';
+
+    // Convert the modified binary back to a decimal number
+    $modifiedEventId = bindec($modifiedEventIdBinary);
+
+    // Convert the modified eventId back to a hexadecimal format, ensuring it is 4 digits
+    $modifiedEventIdHex = sprintf('%04X', $modifiedEventId);
+
+    // Combine sourceId and modified eventId to get the final ETM_id
+    $etmId = "0x" . $sourceIdHex . $modifiedEventIdHex;
+
+    return $etmId;
+}
+
+// Example:
+$sourceId = 0x0003;
+$eventId = 0x002A;
+$etmId = generateETMId($sourceId, $eventId);
+
+echo "ETM_id: $etmId";  // Output should be 0x000300AA
+
+?>
+
+
+
+// Attach event listener to the button
+$('#toggle-transport-btn').on('click', function() {
+                let button = $(this);
+                let selectedItem = $('#transport-list-items option:selected');
+                
+alert(selectedItem.text());
+                if (selectedItem.length === 0) {
+                    alert('Please select a transport.');
+                    return;
+                }
+
+                let transportName = selectedItem.text();
+                let action = (button.text() === 'Start Transport') ? 'start' : 'stop';
+
+                $.ajax({
+                    url: 'toggle_transport.php',
+                    type: 'GET',
+                    data: { 
+                        transport: transportName, 
+                        action: action 
+                    },
+                    success: function(response) {
+                        alert(response);
+                        checkStatus(); // Refresh status after action
+                    },
+                    error: function() {
+                        alert('Error toggling transport.');
+                    }
+                });
+              });
+  
+
+
+ function updateButtonStatus() {
+            let selectedItem = $('#transport-list-items option:selected');
+            let button = $('#toggle-transport-btn');
+            
+            if (selectedItem.length === 0) {
+                button.text('Select Transport');
+                return;
+            }
+            
+            if (selectedItem.hasClass('running')) {
+                button.text('Stop Transport');
+            } else {
+                button.text('Start Transport');
+            }
+        }
+
+$('#add-transport-btn, #edit-transport-btn, #delete-transport-btn, #toggle-transport-btn').on('click', function(event) {
+                event.stopPropagation(); // Prevent the button click from bubbling up to the document
+            });
+
+            // For deselecting all options when clicking outside the select box and buttons
+            $(document).mouseup(function(e) {
+                let container = $("#transport-list-items");
+                let buttons = $("#add-transport-btn, #edit-transport-btn, #delete-transport-btn, #toggle-transport-btn");
+
+                if (!container.is(e.target) && container.has(e.target).length === 0 &&
+                    !buttons.is(e.target) && buttons.has(e.target).length === 0) {
+                    container.val([]); // Deselect all options programmatically
+                    updateButtonStatus();
+                }
+            });
+
+
+
+#!/bin/bash
+
+# Enable error reporting
+set -e
+set -o pipefail
+
+# Define GPS leap seconds
+get_leaps() {
+  echo "46828800 78364801 109900802 173059203 252028804 315187205 346723206 393984007 425520008 457056009 504489610 551750411 599184012 820108813 914803214 1025136015 1119744016 1167264017"
+}
+
+# Test to see if a GPS second is a leap second
+is_leap() {
+  local gps_time=$1
+  local leaps=$(get_leaps)
+  for leap in $leaps; do
+    if [ "$gps_time" -eq "$leap" ]; then
+      echo 1
+      return
+    fi
+  done
+  echo 0
+}
+
+# Count number of leap seconds that have passed
+count_leaps() {
+  local gps_time=$1
+  local dir_flag=$2
+  local leaps=$(get_leaps)
+  local nleaps=0
+
+  # Use awk to perform the comparison and count in one pass
+  nleaps=$(echo "$leaps" | awk -v gps_time="$gps_time" -v dir_flag="$dir_flag" '
+    BEGIN { nleaps = 0 }
+    {
+      if ((dir_flag == "unix2gps" && gps_time >= $1 - NR) ||
+          (dir_flag == "gps2unix" && gps_time >= $1)) {
+        nleaps++
+      }
+    }
+    END { print nleaps }
+  ')
+  
+  echo "$nleaps"
+}
+
+# Convert Unix Time to GPS Time
+unix2gps() {
+  local unix_time=$1
+  local is_leap=0
+  if (( $(echo "$unix_time % 1" | bc -l) != 0 )); then
+    unix_time=$(echo "$unix_time - 0.5" | bc -l)
+    is_leap=1
+  fi
+  local gps_time=$(echo "$unix_time - 315964800" | bc -l)
+  local nleaps=$(count_leaps "$gps_time" "unix2gps")
+  gps_time=$(echo "$gps_time + $nleaps + $is_leap" | bc -l)
+  echo "$gps_time"
+}
+
+# Convert GPS Time to Unix Time
+gps2unix() {
+  local gps_time=$1
+  local unix_time=$(echo "$gps_time + 315964800" | bc -l)
+  local nleaps=$(count_leaps "$gps_time" "gps2unix")
+  unix_time=$(echo "$unix_time - $nleaps" | bc -l)
+  if [ "$(is_leap "$gps_time")" -eq 1 ]; then
+    unix_time=$(echo "$unix_time + 0.5" | bc -l)
+  fi
+  echo "$unix_time"
+}
+
+# Calculate the GPS to UTC offset
+calculate_gps_utc_offset() {
+  local current_gps_time=$1
+  local nleaps=$(count_leaps "$current_gps_time" "gps2unix")
+  echo "$nleaps"
+}
+
+generate_stt_xml() {
+  local filename=$1
+  local transport_name=$filename
+  local current_unix_time=$(date +%s)
+  local current_gps_time=$(unix2gps "$current_unix_time")
+
+  # Load config file
+  eval $(awk -F '=' '{ gsub(/ /, ""); if ($2) printf "export %s=%s\n", $1, $2 }' "/var/www/html/transports/$transport_name/config.ini")
+
+  # Calculate GPS to UTC offset
+  local gps_utc_offset=$(calculate_gps_utc_offset "$current_gps_time")
+
+  # Create the XML structure
+  local system_time=$(unix2gps "$current_unix_time")
+
+  cat <<EOF > "/var/www/html/transports/$transport_name/ts3_stt.xml"
+<?xml version="1.0" encoding="UTF-8"?>
+<tsduck>
+  <STT protocol_version="0" system_time="$system_time" GPS_UTC_offset="$gps_utc_offset" DS_status="false">
+    <metadata PID="8,187" />
+  </STT>
+</tsduck>
+EOF
+}
+
+start_tsduck() {
+  # Source the setenv.sh script
+  source /root/tsduck/tsduck/scripts/setenv.sh
+  
+  local command="/root/tsduck/tsduck/bin/release-x86_64-epgserver/tsp -vvvvvv --control-local 127.0.0.1 --control-port 8000 --bitrate 600000 -I null -P regulate -P inject --bitrate 300000 -p 8187 /var/www/html/transports/ts3/ts3_stt.xml=1000 -O ip 224.100.5.5:49500"
+  nohup bash -c "$command" >/dev/null 2>&1 &
+#bash -c "$command"
+}
+
+restart_plugin() {
+  # Source the setenv.sh script
+  source /root/tsduck/tsduck/scripts/setenv.sh
+  
+  local plugin_index=$1
+  local command="/root/tsduck/tsduck/bin/release-x86_64-epgserver/tspcontrol --tsp 127.0.0.1:8000 restart -s 2"
+  bash -c "$command"
+}
+
+start_tsduck
+
+# Infinite loop to update the STT file and restart the plugin every 5 seconds
+while true; do
+  generate_stt_xml "ts3"
+   restart_plugin 2  # Uncomment and modify this index if necessary
+  sleep 5
+done
+
