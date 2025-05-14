@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8?><tsduck>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC4" ETM_id="0x00012f12">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC5" ETM_id="0x00012f16">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text="As humpback whales travel thousands of miles to feed in rich, icy Antarctic waters, scientists who are following these giant mammals reveal how that food supply could be affected by climate change."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC6" ETM_id="0x00012f1a">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC7" ETM_id="0x00012f1e">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text="John Simpson examines what Benjamin Netanyahu's plan is for Gaza, looks at the mood on the Ukrainian frontline, and analyses what is at stake in the South African general election."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC8" ETM_id="0x00012f22">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC9" ETM_id="0x00012f26">
+    <metadata PID="7686"/>
+    <extended_text_message>
+      <string language="eng" text=""/>
+    </extended_text_message>
+  </ETT></tsduck>

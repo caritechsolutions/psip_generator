@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8?><tsduck>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBF" ETM_id="0x00012efe">
+    <metadata PID="7685"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC0" ETM_id="0x00012f02">
+    <metadata PID="7685"/>
+    <extended_text_message>
+      <string language="eng" text="Reece Parkinson is in the Caribbean for an incredible adventure. First up, Reece heads to the Dominican Republic to explore the country's intoxicating mix of cultures, and discover how locals are protecting their stunning marine environment."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC1" ETM_id="0x00012f06">
+    <metadata PID="7685"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC2" ETM_id="0x00012f0a">
+    <metadata PID="7685"/>
+    <extended_text_message>
+      <string language="eng" text="From New York, Tom Brook reports on the Tribeca Festival, the city's world famous film showcase co-founded by movie legend Robert De Niro."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BC3" ETM_id="0x00012f0e">
+    <metadata PID="7685"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT></tsduck>

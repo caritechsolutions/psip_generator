@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tsduck>
+  <TVCT version="0" current="true" transport_stream_id="0x0002" protocol_version="0">
+    <metadata PID="8,187"/>
+    <channel short_name="BBCW" major_channel_number="2" minor_channel_number="1" modulation_mode="8-VSB" carrier_frequency="0" channel_TSID="0x0002" program_number="0x07D1" ETM_location="1" access_controlled="false" hidden="false" hide_guide="false" service_type="dtv" source_id="0x0001">
+      <service_location_descriptor PCR_PID="0x0021">
+        <component stream_type="0x02" elementary_PID="0x0021"/>
+        <component stream_type="0x24" elementary_PID="0x0022"/>
+      </service_location_descriptor>
+    </channel>
+  </TVCT>
+  <MGT version="7" protocol_version="0">
+    <metadata PID="8,187"/>
+    <table type="TVCT-current" PID="0x1FFB" version_number="0" number_bytes="261"/>
+  </MGT>
+</tsduck>

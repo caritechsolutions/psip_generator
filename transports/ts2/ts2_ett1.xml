@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8?><tsduck>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BA8" ETM_id="0x00012ea2">
+    <metadata PID="7681"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BA9" ETM_id="0x00012ea6">
+    <metadata PID="7681"/>
+    <extended_text_message>
+      <string language="eng" text="The team explores the global race to get clean aviation off the ground. Plus, they visit the Faroe Islands to explore the new technologies harnessing tidal power."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BAA" ETM_id="0x00012eaa">
+    <metadata PID="7681"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BAB" ETM_id="0x00012eae">
+    <metadata PID="7681"/>
+    <extended_text_message>
+      <string language="eng" text="Reece Parkinson is in the Caribbean for an incredible adventure. First up, Reece heads to the Dominican Republic to explore the country's intoxicating mix of cultures, and discover how locals are protecting their stunning marine environment."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BAC" ETM_id="0x00012eb2">
+    <metadata PID="7681"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT></tsduck>

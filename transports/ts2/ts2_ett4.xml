@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8?><tsduck>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BB9" ETM_id="0x00012ee6">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBA" ETM_id="0x00012eea">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text="Myanmar is in the grip of a war largely forgotten by the world, despite the United Nations reporting thousands killed and more than two and a half million people displaced, but getting into the country to report first-hand is tough."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBB" ETM_id="0x00012eee">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBC" ETM_id="0x00012ef2">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text="The team explores the global race to get clean aviation off the ground. Plus, they visit the Faroe Islands to explore the new technologies harnessing tidal power."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBD" ETM_id="0x00012ef6">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text="Twenty-four hours a day, the latest national and international stories as they break."/>
+    </extended_text_message>
+  </ETT>
+  <ETT version="5" protocol_version="0" ETT_table_id_extension="0x0BBE" ETM_id="0x00012efa">
+    <metadata PID="7684"/>
+    <extended_text_message>
+      <string language="eng" text=""/>
+    </extended_text_message>
+  </ETT></tsduck>
