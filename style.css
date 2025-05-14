@@ -1,0 +1,53 @@
+.epg {
+    display: grid;
+    grid-template-columns: 60px repeat(24, 1fr); /* 24 hours (adjust as needed) */
+    gap: 10px;
+}
+
+.channels {
+    display: grid;
+    grid-auto-rows: 50px; /* Channel height */
+    gap: 5px;
+}
+
+.channel {
+    background: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.events-grid {
+    position: relative;
+}
+
+.time-slots {
+    grid-column: 2 / -1; /* Span from the second column to the end */
+    display: grid;
+    grid-template-columns: repeat(24, 1fr); /* 24 columns for 24 hours */
+}
+
+.time-slot {
+    text-align: center;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.event {
+    position: absolute;
+    background: #e0e0e0;
+    border: 1px solid #ccc;
+    padding: 5px;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden;
+    text-overflow: ellipsis; /* Display ellipsis for overflow text */
+}
+
+.event-name {
+    overflow: hidden;
+}
+
+.slider {
+    width: 100%;
+    height: 20px;
+    background: #f0f0f0;
+}

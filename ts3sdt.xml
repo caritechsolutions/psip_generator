@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tsduck>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+  <SDT version="9" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x006E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ANIMP"/>
+    </service>
+    <service service_id="0x01D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="CARTOONITO"/>
+    </service>
+    <service service_id="0x02B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPLUS"/>
+    </service>
+    <service service_id="0x02BC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOS"/>
+    </service>
+    <service service_id="0x0302" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="CNNUS"/>
+    </service>
+    <service service_id="0x037A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPLG-ABC"/>
+    </service>
+    <service service_id="0x0384" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WFOR-CBS"/>
+    </service>
+    <service service_id="0x0398" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WPBT-PBS"/>
+    </service>
+    <service service_id="0x03A2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UDTH" service_name="WTVJ-NBC"/>
+    </service>
+    <service service_id="0x041A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HGTVE"/>
+    </service>
+    <service service_id="0x0492" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSOC"/>
+    </service>
+    <service service_id="0x04A6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXNUS"/>
+    </service>
+    <service service_id="0x074E" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-HOME"/>
+    </service>
+    <service service_id="0x0762" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-SCI"/>
+    </service>
+    <service service_id="0x076C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="DISC-TURBO"/>
+    </service>
+    <service service_id="0x07B2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXS2"/>
+    </service>
+  </SDT>
+</tsduck>

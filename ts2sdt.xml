@@ -1,0 +1,1428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tsduck>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+  <SDT version="19" current="true" transport_stream_id="0x0004" original_network_id="0x0004" actual="true">
+    <metadata PID="17"/>
+    <service service_id="0x01F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPNCAR"/>
+    </service>
+    <service service_id="0x01FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ESPN2"/>
+    </service>
+    <service service_id="0x0294" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO2"/>
+    </service>
+    <service service_id="0x02A8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOF"/>
+    </service>
+    <service service_id="0x03CA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM1"/>
+    </service>
+    <service service_id="0x03D4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="SM2"/>
+    </service>
+    <service service_id="0x03DE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TNT"/>
+    </service>
+    <service service_id="0x0456" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AE"/>
+    </service>
+    <service service_id="0x0460" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HISTE"/>
+    </service>
+    <service service_id="0x046A" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBO"/>
+    </service>
+    <service service_id="0x04BA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="TURCM"/>
+    </service>
+    <service service_id="0x04CE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="NATGEO"/>
+    </service>
+    <service service_id="0x04D8" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOMUN"/>
+    </service>
+    <service service_id="0x04E2" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOPOP"/>
+    </service>
+    <service service_id="0x04EC" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="HBOEXT"/>
+    </service>
+    <service service_id="0x04F6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFETIME"/>
+    </service>
+    <service service_id="0x0500" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="LIFE-MN"/>
+    </service>
+    <service service_id="0x06D6" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AMCLA"/>
+    </service>
+    <service service_id="0x06E0" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="ADULTSWIM"/>
+    </service>
+    <service service_id="0x06EA" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="VH1"/>
+    </service>
+    <service service_id="0x06F4" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="FOXSR"/>
+    </service>
+    <service service_id="0x06FE" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="AXN"/>
+    </service>
+    <service service_id="0x0712" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BBCWLA"/>
+    </service>
+    <service service_id="0x071C" EIT_schedule="false" EIT_present_following="false" CA_mode="true" running_status="running">
+      <service_descriptor service_type="0x01" service_provider_name="UT" service_name="BLOOMBERG"/>
+    </service>
+  </SDT>
+</tsduck>

@@ -1,0 +1,2780 @@
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 19, sections: 1, total size: 913 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x00 (0)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0444 (1092)
+      Start UTC: 2024/06/15 00:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: Memphis"
+      - Descriptor 1: Extended Event (0x4E, 78), 243 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Four chefs who live and breathe Memphis-style barbecue compete; Tennessee tradition abounds in the first basket, which includes a creative take on a messy, shareable comfort food; a gigantic sandwich in the second basket stuns the chefs."
+    - Event Id: 0x0445 (1093)
+      Start UTC: 2024/06/15 01:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: North Carolina"
+      - Descriptor 1: Extended Event (0x4E, 78), 255 bytes
+        Descriptor number: 0, last: 1
+        Language: eng
+        Text: "Four regional rivals deeply devoted to North Carolina-style barbecue battle it out in a thrilling, grilling heat; fish in the first basket threatens to throw the pork-loving pitmasters off their game; the entree round surprises the chefs with liver."
+      - Descriptor 2: Extended Event (0x4E, 78), 6 bytes
+        Descriptor number: 1, last: 1
+        Language: eng
+        Text: ""
+    - Event Id: 0x0446 (1094)
+      Start UTC: 2024/06/15 02:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: Texas"
+      - Descriptor 1: Extended Event (0x4E, 78), 234 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Four passionate grill masters from the Lone Star State compete in a fiery battle; a creepy, crawly, crunchy surprise challenges the chefs in the first round; the second round features a state fair treat and an iconic Texas meat."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 6, sections: 1, total size: 542 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x025B (603)
+      Start UTC: 2024/06/09 09:30:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 26 bytes
+        Language: eng
+        Event name: "Blue Bloods"
+        Description: "Allegiance"
+      - Descriptor 1: Extended Event (0x4E, 78), 228 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Erin's nephew, police officer Joe Hill, becomes aware of witness tampering in a trial; Baez forces Danny to help her find the killer of her favorite TV personality; Eddie questions her decision to become a police sergeant."
+    - Event Id: 0x025C (604)
+      Start UTC: 2024/06/09 10:15:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "SYFY Games"
+        Description: ""
+    - Event Id: 0x025D (605)
+      Start UTC: 2024/06/09 10:45:00
+      Duration: 00:10:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "SYFY Games"
+        Description: ""
+    - Event Id: 0x025E (606)
+      Start UTC: 2024/06/09 10:55:00
+      Duration: 00:05:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 12 bytes
+        Language: eng
+        Event name: "SyfyYa!"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 108 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Exploring the latest news in the fanfiction culture, which includes films, TV, comics and video games."
+    - Event Id: 0x025F (607)
+      Start UTC: 2024/06/09 11:00:00
+      Duration: 03:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 21 bytes
+        Language: eng
+        Event name: "Paid Programming"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 23 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Paid programming."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 485 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x80 (128)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03FA (1018)
+      Start UTC: 2024/06/09 01:12:00
+      Duration: 00:53:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 23 bytes
+        Language: eng
+        Event name: "Too Ugly For Love?"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 148 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Graduate Chris lost over half his body weight but now has excess skin; Mariah has vitiligo covering most of her face; mum Claire has alopecia."
+    - Event Id: 0x03FB (1019)
+      Start UTC: 2024/06/09 02:05:00
+      Duration: 00:53:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 23 bytes
+        Language: eng
+        Event name: "Too Ugly For Love?"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 136 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jemma has lymphedema, leaving one leg bigger than the other; Claire has alopecia and wants another date with ex-footballer Keiron."
+    - Event Id: 0x03FC (1020)
+      Start UTC: 2024/06/09 02:58:00
+      Duration: 00:26:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "My Naked Secret"
+        Description: "Wendy"
+      - Descriptor 1: Extended Event (0x4E, 78), 64 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Wendy is disgusted by her body after having four children."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 783 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xF8 (248)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0391 (913)
+      Start UTC: 2024/06/10 21:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 31 bytes
+        Language: eng
+        Event name: "Good Eats"
+        Description: "Ill Gotten Grains"
+      - Descriptor 1: Extended Event (0x4E, 78), 80 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Creating dishes with wheat berries, bulgur and couscous. With Alton Brown."
+    - Event Id: 0x0392 (914)
+      Start UTC: 2024/06/10 21:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 46 bytes
+        Language: eng
+        Event name: "Good Eats"
+        Description: "Where There's Smoke There's Fish"
+      - Descriptor 1: Extended Event (0x4E, 78), 19 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Smoking fish."
+    - Event Id: 0x0393 (915)
+      Start UTC: 2024/06/10 22:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 28 bytes
+        Language: eng
+        Event name: "Good Eats"
+        Description: "Strawberry Sky"
+      - Descriptor 1: Extended Event (0x4E, 78), 43 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Making the most of strawberry season."
+    - Event Id: 0x0394 (916)
+      Start UTC: 2024/06/10 22:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Good Eats"
+        Description: "Yogurt: Good Milk Gone Bad"
+      - Descriptor 1: Extended Event (0x4E, 78), 54 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The process of making yogurt. Host: Alton Brown."
+    - Event Id: 0x0395 (917)
+      Start UTC: 2024/06/10 23:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 50 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Santiago"
+      - Descriptor 1: Extended Event (0x4E, 78), 121 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Asado a la parrilla, a towering platter of meat; pastel de jaiba with fresh crab; charcarero, a pork loin sandwich."
+    - Event Id: 0x0396 (918)
+      Start UTC: 2024/06/10 23:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 46 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Rome"
+      - Descriptor 1: Extended Event (0x4E, 78), 111 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Deep-fried artichokes, spaghetti alla carbonara and pizza Tonda in Rome that date back hundreds of years."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 367 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x68 (104)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0476 (1142)
+      Start UTC: 2024/06/08 15:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 23 bytes
+        Language: eng
+        Event name: "NCIS"
+        Description: "Dead Reckoning"
+      - Descriptor 1: Extended Event (0x4E, 78), 125 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Gibbs reluctantly works with Trent Kort (David Dayan Fisher) to put away one of the department's most-wanted criminals."
+    - Event Id: 0x0477 (1143)
+      Start UTC: 2024/06/08 16:00:00
+      Duration: 02:05:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 17 bytes
+        Language: eng
+        Event name: "The Hangover"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 152 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "After a wild stag party in Las Vegas, three hazy groomsmen must find their missing friend and get him back to Los Angeles in time for his wedding."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 323 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x48 (72)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01F3 (499)
+      Start UTC: 2024/06/08 04:01:00
+      Duration: 02:03:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 52 bytes
+        Language: eng
+        Event name: "The Life & Murder of Nicole Brown Simpson"
+        Description: "Part 1"
+      - Descriptor 1: Extended Event (0x4E, 78), 237 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "An eighteen-year-old Nicole Brown meets 30-year-old superstar OJ Simpson while hostessing at a restaurant; they embark on a whirlwind romance which results in her filing and drawing a final line in the sand that proves to be fatal."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 364 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xC8 (200)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0305 (773)
+      Start UTC: 2024/06/10 03:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 31 bytes
+        Language: eng
+        Event name: "Ace Ventura: Pet Detective"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 125 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A bungling gumshoe uncovers more than just a simple kidnapping when he searches for the Miami Dolphins' missing mascot."
+    - Event Id: 0x0306 (774)
+      Start UTC: 2024/06/10 05:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 35 bytes
+        Language: eng
+        Event name: "Ace Ventura: When Nature Calls"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 123 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A sacred white bat's disappearance begets bloodshed between African tribes and puts the goofy pet sleuth on the case."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 31, sections: 1, total size: 101 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xD8 (216)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01AA (426)
+      Start UTC: 2024/06/10 09:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 39 bytes
+        Language: eng
+        Event name: "Way Too Early With Jonathan Lemire"
+        Description: ""
+    - Event Id: 0x01AB (427)
+      Start UTC: 2024/06/10 10:00:00
+      Duration: 04:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 16 bytes
+        Language: eng
+        Event name: "Morning Joe"
+        Description: ""
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 119 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xD8 (216)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x00DD (221)
+      Start UTC: 2024/06/10 10:00:00
+      Duration: 06:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 11 bytes
+        Language: eng
+        Event name: "Tosh.0"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 74 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Daniel Tosh lampoons viral videos, blogs, websites and technologies."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 196 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x88 (136)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05AA (1450)
+      Start UTC: 2024/06/13 04:29:00
+      Duration: 01:39:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Big Fifty: The DelRhonda Hood Story"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 122 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The story of Delrhonda "Big Fifty" Hood, who goes from running her own drug empire in Detroit to finding redemption."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 102 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x10 (16)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05E1 (1505)
+      Start UTC: 2024/06/15 06:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x05E2 (1506)
+      Start UTC: 2024/06/15 07:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x05E3 (1507)
+      Start UTC: 2024/06/15 08:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 418 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x70 (112)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0547 (1351)
+      Start UTC: 2024/06/16 18:36:00
+      Duration: 01:14:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 35 bytes
+        Language: eng
+        Event name: "Yellowstone"
+        Description: "Tall Drink of Water"
+      - Descriptor 1: Extended Event (0x4E, 78), 146 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Beth heads to Salt Lake City to take care of unfinished business; a trap is set for Jamie; Kayce makes an important decision for his family."
+    - Event Id: 0x0548 (1352)
+      Start UTC: 2024/06/16 19:50:00
+      Duration: 01:17:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Yellowstone"
+        Description: "Horses in Heaven"
+      - Descriptor 1: Extended Event (0x4E, 78), 155 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "John makes swift changes at the Capitol; later, he receives some advice from Senator Perry; the venom between Jamie and Beth reaches a boiling point."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 1287 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xB0 (176)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03A2 (930)
+      Start UTC: 2024/06/13 18:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 44 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One Where Chandler Can't Cry"
+      - Descriptor 1: Extended Event (0x4E, 78), 129 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Rachel and her sister get into a heated sibling rivalry over Ross; Chandler confesses he hasn't cried since he was a child."
+    - Event Id: 0x03A3 (931)
+      Start UTC: 2024/06/13 18:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One That Could Have Been"
+      - Descriptor 1: Extended Event (0x4E, 78), 173 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When Rachel tells her friends about Barry and Mindy's impending divorce, the others speculate how their lives could have turned out if they had chosen different paths."
+    - Event Id: 0x03A4 (932)
+      Start UTC: 2024/06/13 19:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One That Could Have Been"
+      - Descriptor 1: Extended Event (0x4E, 78), 173 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When Rachel tells her friends about Barry and Mindy's impending divorce, the others speculate how their lives could have turned out if they had chosen different paths."
+    - Event Id: 0x03A5 (933)
+      Start UTC: 2024/06/13 19:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One With the Unagi"
+      - Descriptor 1: Extended Event (0x4E, 78), 153 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Chandler's anniversary gift to Monica is really one an ex-girlfriend gave him; Joey hires a look-alike; Ross tries to teach martial arts to Rachel."
+    - Event Id: 0x03A6 (934)
+      Start UTC: 2024/06/13 20:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 47 bytes
+        Language: eng
+        Event name: "The Big Bang Theory"
+        Description: "The Maternal Combustion"
+      - Descriptor 1: Extended Event (0x4E, 78), 164 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When Sheldon's and Leonard's mothers finally meet, personalities collide; Howard decides to do his share of the chores -- with a little help from his friends."
+    - Event Id: 0x03A7 (935)
+      Start UTC: 2024/06/13 20:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 52 bytes
+        Language: eng
+        Event name: "The Big Bang Theory"
+        Description: "The Commitment Determination"
+      - Descriptor 1: Extended Event (0x4E, 78), 124 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "While facing dramatic changes in his relationship with Amy, Sheldon pushes Penny and Leonard to choose a wedding date."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 541 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x40 (64)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03E6 (998)
+      Start UTC: 2024/06/16 00:00:00
+      Duration: 02:15:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "The Greatest Showman"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 255 bytes
+        Descriptor number: 0, last: 1
+        Language: eng
+        Text: "P.T. Barnum indulges his limitless imagination to create the Barnum & Bailey circus in the 1800s. Featuring musical numbers, exotic performers and daring feats, the mesmerizing spectacle takes the world by storm to become the greatest show on Earth."
+      - Descriptor 2: Extended Event (0x4E, 78), 6 bytes
+        Descriptor number: 1, last: 1
+        Language: eng
+        Text: ""
+    - Event Id: 0x03E7 (999)
+      Start UTC: 2024/06/16 02:15:00
+      Duration: 02:15:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 18 bytes
+        Language: eng
+        Event name: "Pitch Perfect"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 185 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When a new student joins her college's female a cappella group, she takes the women out of their comfort zone of traditional pieces and introduces them to innovative arrangements."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 613 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xB8 (184)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0287 (647)
+      Start UTC: 2024/06/13 21:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 30 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "Reality Star Struck"
+      - Descriptor 1: Extended Event (0x4E, 78), 146 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The young rising star of "The Wives of Wall Street" is murdered; Castle tries to give Beckett a Valentine's Day gift, but his plans go awry."
+    - Event Id: 0x0288 (648)
+      Start UTC: 2024/06/13 22:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 17 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "Target"
+      - Descriptor 1: Extended Event (0x4E, 78), 156 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A murder investigation reveals a plot to kidnap a wealthy businessman's daughter; FBI Agent Harris (Dylan Walsh) helps Castle and Beckett investigate."
+    - Event Id: 0x0289 (649)
+      Start UTC: 2024/06/13 23:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "Hunt"
+      - Descriptor 1: Extended Event (0x4E, 78), 183 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "After the FBI fails to get Alexis back, Castle takes matters into his own hands; Castle learns that his daughter's kidnapping may be a part of a larger and more sinister agenda."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 25, sections: 1, total size: 641 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE8 (232)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0301 (769)
+      Start UTC: 2024/06/18 15:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 29 bytes
+        Language: eng
+        Event name: "Major Crimes"
+        Description: "Personal Day"
+      - Descriptor 1: Extended Event (0x4E, 78), 181 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A man is found murdered shortly after his release from prison; the squad works to solve a 17-year-old murder; Rusty confesses the reason behind his recent suspicious activity."
+    - Event Id: 0x0302 (770)
+      Start UTC: 2024/06/18 16:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 30 bytes
+        Language: eng
+        Event name: "Major Crimes"
+        Description: "Frozen Assets"
+      - Descriptor 1: Extended Event (0x4E, 78), 187 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The division works to solve the murder of a dog who was left a 20 million dollar estate by his deceased owner; the squad begins to suspect foul play in the death of the dog's owner."
+    - Event Id: 0x0303 (771)
+      Start UTC: 2024/06/18 17:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 30 bytes
+        Language: eng
+        Event name: "Major Crimes"
+        Description: "Letting It Go"
+      - Descriptor 1: Extended Event (0x4E, 78), 118 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The squad must question possible suspects when an alleged rapist is murdered; Rusty catches his mother in a lie."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 537 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x60 (96)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x04D8 (1240)
+      Start UTC: 2024/06/12 12:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "Second Base, Third Strike"
+      - Descriptor 1: Extended Event (0x4E, 78), 146 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When Taffer returns to Second Base Bar and Grill to find an owner has let the bar deteriorate, he must decide if he will save it once again."
+    - Event Id: 0x04D9 (1241)
+      Start UTC: 2024/06/12 13:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 43 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "Two Flew Over the Handlebars"
+      - Descriptor 1: Extended Event (0x4E, 78), 96 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jon tries to get two partying sisters to stop binge drinking in order to save a biker bar."
+    - Event Id: 0x04DA (1242)
+      Start UTC: 2024/06/12 14:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "A Dash of Bitters"
+      - Descriptor 1: Extended Event (0x4E, 78), 114 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A bitter brawl when Taffer uses the help of an owner's ex-wife and former manager to help turn a bar around."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 647 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xF0 (240)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0488 (1160)
+      Start UTC: 2024/06/14 18:02:00
+      Duration: 01:48:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 59 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "The NeverEnding Story"
+      - Descriptor 1: Extended Event (0x4E, 78), 216 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Stephanie reveals a secret; Geoffrey follows his heart; Darcey looks ahead to the future; David and Lana spend their last bit of time together; Ed hopes for a second chance, and Lisa and Usman must say goodbye."
+    - Event Id: 0x0489 (1161)
+      Start UTC: 2024/06/14 19:50:00
+      Duration: 01:48:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 69 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Happily Ever After?"
+        Description: "Once Upon a Rocky Relationship"
+      - Descriptor 1: Extended Event (0x4E, 78), 253 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jasmine keeps a secret from Gino; Mahmoud prepares to leave everything he knows; Rob worries that Sophie has moved on with someone else; Emily's American ways might be at odds with Kobe's African family; Manuel's private nature tests his marriage."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 551 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x58 (88)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x04A7 (1191)
+      Start UTC: 2024/06/16 09:46:00
+      Duration: 00:49:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 38 bytes
+        Language: eng
+        Event name: "Anthony Bourdain: No Reservations"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 64 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Anthony Bourdain travels the world sampling local cuisine."
+    - Event Id: 0x04A8 (1192)
+      Start UTC: 2024/06/16 10:35:00
+      Duration: 00:25:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 28 bytes
+        Language: eng
+        Event name: "America's Worst Tattoos"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 61 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Explore the stories behind some truly terrible tattoos."
+    - Event Id: 0x04A9 (1193)
+      Start UTC: 2024/06/16 11:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 53 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "A Leap of Faith"
+      - Descriptor 1: Extended Event (0x4E, 78), 241 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Gino packs for his trip to Panama to meet Jasmine; Memphis is ready to marry a Tunisian man she's never met before; Caleb and Alina prepare to meet after 13 years; Kim plans to fly across the world for her last shot at love with Usman."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 7, sections: 1, total size: 643 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x88 (136)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x032F (815)
+      Start UTC: 2024/06/17 03:20:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 16 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "LJND"
+      - Descriptor 1: Extended Event (0x4E, 78), 129 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Suspicious deaths lead to uncomfortable truths as Jenny, Donovan and Malik come face to face with a monster in their midst."
+    - Event Id: 0x0330 (816)
+      Start UTC: 2024/06/17 04:10:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 35 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "Our Home on Native Land"
+      - Descriptor 1: Extended Event (0x4E, 78), 119 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jenny and Donovan investigate a death in Tkaronto's unhouse community, shedding light on a major housing problem."
+    - Event Id: 0x0331 (817)
+      Start UTC: 2024/06/17 05:00:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 22 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "Safe Space"
+      - Descriptor 1: Extended Event (0x4E, 78), 95 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Death follows River and Dennis as they move into a new loft; a bereaved Peggy is missing."
+    - Event Id: 0x0332 (818)
+      Start UTC: 2024/06/17 05:50:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 29 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "Blast to the Past"
+      - Descriptor 1: Extended Event (0x4E, 78), 116 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jenny and Donovan set out to find out where Peggy is and who is responsible for the explosion at Peggy's shop."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 7, sections: 1, total size: 637 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x10 (16)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x028F (655)
+      Start UTC: 2024/06/11 06:40:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "The Rookie"
+        Description: "Tough Love"
+      - Descriptor 1: Extended Event (0x4E, 78), 156 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The rookies are asked to develop their first confidential informants; Officer Chen's mother complicates her home life when she comes to stay with her."
+    - Event Id: 0x0290 (656)
+      Start UTC: 2024/06/11 07:30:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 16 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "LJND"
+      - Descriptor 1: Extended Event (0x4E, 78), 129 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Suspicious deaths lead to uncomfortable truths as Jenny, Donovan and Malik come face to face with a monster in their midst."
+    - Event Id: 0x0291 (657)
+      Start UTC: 2024/06/11 08:15:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 22 bytes
+        Language: eng
+        Event name: "Frogger"
+        Description: "Hop Aboard"
+      - Descriptor 1: Extended Event (0x4E, 78), 223 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The beloved arcade game of the 1980s is now a gameshow where six "Frogger" contestants go head-to-head in life-sized crossings to win a $10,000 golden fanny pack and the chance to compete for the $100,000 grand prize."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 30, sections: 1, total size: 132 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x78 (120)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x022E (558)
+      Start UTC: 2024/06/16 21:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 19 bytes
+        Language: eng
+        Event name: "PoliticsNation"
+        Description: ""
+    - Event Id: 0x022F (559)
+      Start UTC: 2024/06/16 22:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 43 bytes
+        Language: eng
+        Event name: "The Sunday Show With Jonathan Capehart"
+        Description: ""
+    - Event Id: 0x0230 (560)
+      Start UTC: 2024/06/16 23:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 10 bytes
+        Language: eng
+        Event name: "Ayman"
+        Description: ""
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 163 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x78 (120)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x00E9 (233)
+      Start UTC: 2024/06/12 22:00:00
+      Duration: 05:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "South Park"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 114 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The off-colour adventures of Stan, Kyle, Kenny and Cartman, four elementary school boys in South Park, Colo."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 128 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x00FF (255)
+      Start UTC: 2024/06/17 10:00:00
+      Duration: 06:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 39 bytes
+        Language: eng
+        Event name: "The Meltdown With Jonah and Kumail"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 55 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Comics perform at Meltdown Comics in Los Angeles."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 30, sections: 1, total size: 56 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xA0 (160)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01E8 (488)
+      Start UTC: 2024/06/13 14:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 24 bytes
+        Language: eng
+        Event name: "Ana Cabrera Reports"
+        Description: ""
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 1254 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x48 (72)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03C9 (969)
+      Start UTC: 2024/06/12 03:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 51 bytes
+        Language: eng
+        Event name: "Anthony Bourdain: No Reservations"
+        Description: "San Francisco"
+      - Descriptor 1: Extended Event (0x4E, 78), 135 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Tony explores San Francisco's contradictions, quirks and flavors, ranging from Chinatown to Haight-Ashbury and Fisherman's Wharf."
+    - Event Id: 0x03CA (970)
+      Start UTC: 2024/06/12 04:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Man v. Food"
+        Description: "Newark, New Jersey"
+      - Descriptor 1: Extended Event (0x4E, 78), 184 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Casey Webb heads to his home state of New Jersey for an iconic Italian hot dog, a Portuguese pork sandwich, and a taco challenge so big that no one's been brave enough to try it."
+    - Event Id: 0x03CB (971)
+      Start UTC: 2024/06/12 04:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Man v. Food"
+        Description: "San Antonio, Texas"
+      - Descriptor 1: Extended Event (0x4E, 78), 157 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Casey Webb's first stop is San Antonio's oldest restaurant, a German deli for the Wienerschnitzel, the Puffy Taco; the 3-pound Cinnamon Roll Challenge."
+    - Event Id: 0x03CC (972)
+      Start UTC: 2024/06/12 05:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Man Finds Food"
+        Description: "City of Brotherly Grub"
+      - Descriptor 1: Extended Event (0x4E, 78), 228 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Adam is in Philly at a wacky joint with a secret beer-filled burger, the ultimate chili pie upgrade at a restaurant in an old bank, a hidden Mexican meatball sub and an off-the-menu glazed fried chicken at a doughnut shop."
+    - Event Id: 0x03CD (973)
+      Start UTC: 2024/06/12 05:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Man v. Food"
+        Description: "Providence, Rhode Island"
+      - Descriptor 1: Extended Event (0x4E, 78), 252 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Casey Webb starts with a decadent brioche doughnut that's topped with brunch all-stars and then heads for the sea to dig oysters for a fresh feast; Finally, he faces three 24-ounce milkshakes at a creamery that has been dishing treats since 1928."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 19, sections: 1, total size: 818 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x10 (16)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x044A (1098)
+      Start UTC: 2024/06/15 06:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: Texas"
+      - Descriptor 1: Extended Event (0x4E, 78), 234 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Four passionate grill masters from the Lone Star State compete in a fiery battle; a creepy, crawly, crunchy surprise challenges the chefs in the first round; the second round features a state fair treat and an iconic Texas meat."
+    - Event Id: 0x044B (1099)
+      Start UTC: 2024/06/15 07:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 42 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: Finale Showdown"
+      - Descriptor 1: Extended Event (0x4E, 78), 254 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Winners from the Kansas City, Memphis, North Carolina, and Texas heats return to compete for ultimate bragging rights; a smoky ingredient in the appetizer basket kicks things off; the last basket of the tournament is packed with sugary ingredients."
+    - Event Id: 0x044C (1100)
+      Start UTC: 2024/06/15 08:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 21 bytes
+        Language: eng
+        Event name: "Paid Programming"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 23 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Paid programming."
+    - Event Id: 0x044D (1101)
+      Start UTC: 2024/06/15 08:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 37 bytes
+        Language: eng
+        Event name: "Organic Sourdough Bread at Home!"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 93 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Incredible new multi-cooker - Air Fryer, Bread Maker, Slow Cooker, and Oven all in one!"
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 6, sections: 1, total size: 506 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xA0 (160)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0260 (608)
+      Start UTC: 2024/06/09 14:00:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "The Rookie"
+        Description: "The Night General"
+      - Descriptor 1: Extended Event (0x4E, 78), 160 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Nolan teams up with new night detective Pablo Armstrong for a murder investigation case that results in an unexpected reunion with a former love interest."
+    - Event Id: 0x0261 (609)
+      Start UTC: 2024/06/09 14:50:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 22 bytes
+        Language: eng
+        Event name: "The Rookie"
+        Description: "The Bet"
+      - Descriptor 1: Extended Event (0x4E, 78), 242 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Officer Nolan navigates his relationship with Jessica and a developing rapport with Grace while working a high-stakes criminal case involving an undercover homeland security agent; Officer Chen meddles with Officer Bradford's love life."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 309 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x03E5 (997)
+      Start UTC: 2024/06/07 23:26:00
+      Duration: 01:46:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 59 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "The NeverEnding Story"
+      - Descriptor 1: Extended Event (0x4E, 78), 216 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Stephanie reveals a secret; Geoffrey follows his heart; Darcey looks ahead to the future; David and Lana spend their last bit of time together; Ed hopes for a second chance, and Lisa and Usman must say goodbye."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 22, sections: 1, total size: 323 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x01F1 (497)
+      Start UTC: 2024/06/08 00:00:00
+      Duration: 02:03:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 52 bytes
+        Language: eng
+        Event name: "The Life & Murder of Nicole Brown Simpson"
+        Description: "Part 1"
+      - Descriptor 1: Extended Event (0x4E, 78), 237 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "An eighteen-year-old Nicole Brown meets 30-year-old superstar OJ Simpson while hostessing at a restaurant; they embark on a whirlwind romance which results in her filing and drawing a final line in the sand that proves to be fatal."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 194 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x02D1 (721)
+      Start UTC: 2024/06/07 23:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 49 bytes
+        Language: eng
+        Event name: "The Big Bang Theory"
+        Description: "The Discovery Dissipation"
+      - Descriptor 1: Extended Event (0x4E, 78), 111 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Amy and Leonard try to help Sheldon deal with his shame; Raj stays with Bernadette and Howard for a week."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 226 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x0233 (563)
+      Start UTC: 2024/06/07 23:10:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "The Rookie"
+        Description: "The Night General"
+      - Descriptor 1: Extended Event (0x4E, 78), 160 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Nolan teams up with new night detective Pablo Armstrong for a murder investigation case that results in an unexpected reunion with a former love interest."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 17, sections: 1, total size: 258 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x0324 (804)
+      Start UTC: 2024/06/08 00:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 35 bytes
+        Language: eng
+        Event name: "Chopped"
+        Description: "Grill Masters: Battle 1"
+      - Descriptor 1: Extended Event (0x4E, 78), 189 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The first basket out of the gate challenges four determined competitors with a weird pie and a beautiful cut of pork; a vegan product counters the giant beef ribs in the entree round."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 26, sections: 1, total size: 151 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x050F (1295)
+      Start UTC: 2024/06/08 00:57:00
+      Duration: 01:48:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 10 bytes
+        Language: eng
+        Event name: "Dutch"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 107 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "An ambitious New Jersey drug dealer makes moves on the street while facing a high-profile court case."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 181 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x0468 (1128)
+      Start UTC: 2024/06/07 23:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Two and a Half Men"
+        Description: "Gumby With a Pokey"
+      - Descriptor 1: Extended Event (0x4E, 78), 106 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "While Alan and Jake are away on a road trip, Charlie is visited by the ghosts of his ex-girlfriends."
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 22, sections: 1, total size: 18 bytes
+  - Section 0:
+    Service Id: 0x07EE (2030)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 28, sections: 1, total size: 60 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x0175 (373)
+      Start UTC: 2024/06/08 00:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 28 bytes
+        Language: eng
+        Event name: "All In With Chris Hayes"
+        Description: ""
+
+* EIT p/f Actual, TID 0x4E (78), PID 0x0012 (18)
+  Version: 0, sections: 1, total size: 126 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x01 (1)
+    Last Table Id: 0x4E (78), EIT p/f Actual
+    - Event Id: 0x00D2 (210)
+      Start UTC: 2024/06/08 03:30:00
+      Duration: 06:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 18 bytes
+        Language: eng
+        Event name: "Drunk History"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 74 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Actors passionately re-enact rich histories, told by drunken people."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 368 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE0 (224)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0427 (1063)
+      Start UTC: 2024/06/10 13:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Televentas"
+        Description: ""
+    - Event Id: 0x0428 (1064)
+      Start UTC: 2024/06/10 13:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Televentas"
+        Description: ""
+    - Event Id: 0x0429 (1065)
+      Start UTC: 2024/06/10 14:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Televentas"
+        Description: ""
+    - Event Id: 0x042A (1066)
+      Start UTC: 2024/06/10 14:30:00
+      Duration: 00:49:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 38 bytes
+        Language: eng
+        Event name: "Love & Translation"
+        Description: "The Other Chica"
+      - Descriptor 1: Extended Event (0x4E, 78), 209 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "While Dylan works to win back trust, Yam is desperate to make her true feelings known; two women go head-to-head for Kahlil's attention; Tripp makes a choice that leaves one woman's path to love unclear."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 636 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x80 (128)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0343 (835)
+      Start UTC: 2024/06/09 00:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Forgione vs. Waxman"
+      - Descriptor 1: Extended Event (0x4E, 78), 169 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Iron Chef Marc Forgione plays the role of sous chef to his father, Larry Forgione, as the two take on culinary legend and close family friend chef Jonathan Waxman."
+    - Event Id: 0x0344 (836)
+      Start UTC: 2024/06/09 01:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 39 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Garces vs. Spence"
+      - Descriptor 1: Extended Event (0x4E, 78), 195 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Seattle chef Carolynn Spence brings her Pacific Northwest cuisine into Kitchen Stadium to battle Iron Chef Jose Garces; Marcel Vigneron and Lesley Bargar Suter judge the crustaceous battle."
+    - Event Id: 0x0345 (837)
+      Start UTC: 2024/06/09 02:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Morimoto vs. Marino"
+      - Descriptor 1: Extended Event (0x4E, 78), 85 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Chef Dena Marino enters Kitchen Stadium to take on Iron Chef Masaharu Morimoto."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 102 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x90 (144)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x052E (1326)
+      Start UTC: 2024/06/09 06:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x052F (1327)
+      Start UTC: 2024/06/09 07:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x0530 (1328)
+      Start UTC: 2024/06/09 08:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 203 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x78 (120)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x047A (1146)
+      Start UTC: 2024/06/08 22:55:00
+      Duration: 02:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 17 bytes
+        Language: eng
+        Event name: "The Hangover"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 152 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "After a wild stag party in Las Vegas, three hazy groomsmen must find their missing friend and get him back to Los Angeles in time for his wedding."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 308 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x78 (120)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0207 (519)
+      Start UTC: 2024/06/08 22:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "Girl in the Basement"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 249 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The horrific story of Sara, a vibrant teen girl who was looking forward to her 18th birthday so she could move away from her controlling father, Don. Her world becomes extremely dark when her father imprisons her in the basement of their home."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 202 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xD0 (208)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0307 (775)
+      Start UTC: 2024/06/10 07:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Date Night"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 153 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Mistaken identity creates an unforgettable adventure for two suburbanites who were trying to invigorate their marriage with an evening at a bistro."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 31, sections: 1, total size: 56 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE0 (224)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01AC (428)
+      Start UTC: 2024/06/10 14:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 24 bytes
+        Language: eng
+        Event name: "Ana Cabrera Reports"
+        Description: ""
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 18 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE0 (224)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 292 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xB8 (184)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05C1 (1473)
+      Start UTC: 2024/06/13 22:01:00
+      Duration: 01:34:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 19 bytes
+        Language: eng
+        Event name: "Friend Request"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 106 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A successful family man is seduced by an ex-girlfriend who is out for revenge for a past wrongdoing."
+    - Event Id: 0x05C2 (1474)
+      Start UTC: 2024/06/13 23:35:00
+      Duration: 01:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 10 bytes
+        Language: eng
+        Event name: "Dutch"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 107 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "An ambitious New Jersey drug dealer makes moves on the street while facing a high-profile court case."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 144 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x18 (24)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05E4 (1508)
+      Start UTC: 2024/06/15 09:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x05E5 (1509)
+      Start UTC: 2024/06/15 10:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "R&B Vibes"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 40 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Popular R&B artists are showcased."
+    - Event Id: 0x05E6 (1510)
+      Start UTC: 2024/06/15 11:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Big Chune"
+        Description: ""
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 433 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x80 (128)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x054C (1356)
+      Start UTC: 2024/06/17 00:53:00
+      Duration: 01:07:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 35 bytes
+        Language: eng
+        Event name: "Yellowstone"
+        Description: "A Knife and No Coin"
+      - Descriptor 1: Extended Event (0x4E, 78), 207 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jamie goes through with his plan; John has a request for Monica and lends support to an unexpected friend; the Yellowstone cowboys embark on a big change; a flashback reveals a source of Rip's loyalty."
+    - Event Id: 0x054D (1357)
+      Start UTC: 2024/06/17 02:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 36 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "Dancing Dreams Dashed"
+      - Descriptor 1: Extended Event (0x4E, 78), 105 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jon Taffer and his experts visit failing drinking establishments to offer one last shot at success."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 1110 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE0 (224)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03BC (956)
+      Start UTC: 2024/06/14 12:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 68 bytes
+        Language: eng
+        Event name: "Young Sheldon"
+        Description: "A Therapist, a Comic Book, and a Breakfast Sausage"
+      - Descriptor 1: Extended Event (0x4E, 78), 124 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "After choking on a breakfast sausage, Sheldon refuses to eat solid foods; he discovers comic books for the first time."
+    - Event Id: 0x03BD (957)
+      Start UTC: 2024/06/14 12:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 76 bytes
+        Language: eng
+        Event name: "Young Sheldon"
+        Description: "A Solar Calculator, a Game Ball, and a Cheerleader's Bosom"
+      - Descriptor 1: Extended Event (0x4E, 78), 102 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Sheldon struggles with newfound popularity after utilizing statistics to help the football team."
+    - Event Id: 0x03BE (958)
+      Start UTC: 2024/06/14 13:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 48 bytes
+        Language: eng
+        Event name: "Young Sheldon"
+        Description: "A Patch, a Modem, and a Zantac"
+      - Descriptor 1: Extended Event (0x4E, 78), 92 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Sheldon goes on a mission to disprove a NASA representative who dismisses his science."
+    - Event Id: 0x03BF (959)
+      Start UTC: 2024/06/14 13:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 55 bytes
+        Language: eng
+        Event name: "Young Sheldon"
+        Description: "A Brisket, Voodoo, and Cannonball Run"
+      - Descriptor 1: Extended Event (0x4E, 78), 116 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Meemaw causes a feud when she refuses to give George Sr. her brisket recipe; the kids try to resolve the feud."
+    - Event Id: 0x03C0 (960)
+      Start UTC: 2024/06/14 14:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 46 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One Where Ross Dates a Student"
+      - Descriptor 1: Extended Event (0x4E, 78), 111 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Ross toys with dating one of his students; a curling iron starts a fire in Phoebe and Rachel's apartment."
+    - Event Id: 0x03C1 (961)
+      Start UTC: 2024/06/14 14:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 38 bytes
+        Language: eng
+        Event name: "Friends"
+        Description: "The One With Joey's Fridge"
+      - Descriptor 1: Extended Event (0x4E, 78), 120 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Monica and Phoebe compete to find Rachel a date; Joey tries to con his friends into buying him a new refrigerator."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 418 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x88 (136)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0405 (1029)
+      Start UTC: 2024/06/17 03:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 18 bytes
+        Language: eng
+        Event name: "Despicable Me"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 155 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "As he tries to execute a fiendish plot to steal the moon, a supervillain meets his match in three little orphan girls who want to make him their dad."
+    - Event Id: 0x0406 (1030)
+      Start UTC: 2024/06/17 05:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 20 bytes
+        Language: eng
+        Event name: "Despicable Me 2"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 175 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Just as Gru settles into his new role as a suburban family man, the ultrasecret Anti-Villain League sends him on a mission to nab the perpetrator of a spectacular heist."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 709 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xC0 (192)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x028A (650)
+      Start UTC: 2024/06/14 00:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 26 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "Scared to Death"
+      - Descriptor 1: Extended Event (0x4E, 78), 201 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Castle and Beckett tackle one of their creepiest cases yet when a woman appears to have been scared to death by a "haunted" DVD; Castle fears for his life after he accidentally watches the video."
+    - Event Id: 0x028B (651)
+      Start UTC: 2024/06/14 01:00:00
+      Duration: 01:03:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "The Wild Rover"
+      - Descriptor 1: Extended Event (0x4E, 78), 243 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When a body is discovered in an industrial cake mixer, the murder is traced to an Irish gang and a bar owner named Siobhan O'Doul (Cara Buono); Detective Ryan reveals a history with Siobhan from his time working under cover in narcotics."
+    - Event Id: 0x028C (652)
+      Start UTC: 2024/06/14 02:03:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 30 bytes
+        Language: eng
+        Event name: "Castle"
+        Description: "The Lives of Others"
+      - Descriptor 1: Extended Event (0x4E, 78), 118 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "While stuck at home with a broken leg, Castle believes he witnesses a murder in the apartment across the street."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 25, sections: 1, total size: 610 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xF0 (240)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0304 (772)
+      Start UTC: 2024/06/18 18:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Rizzoli & Isles"
+        Description: "Family Matters"
+      - Descriptor 1: Extended Event (0x4E, 78), 143 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "After a woman discovers that her husband has been murdered, the investigation reveals that the victim may have been living a double life."
+    - Event Id: 0x0305 (773)
+      Start UTC: 2024/06/18 19:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Rizzoli & Isles"
+        Description: "The Platform"
+      - Descriptor 1: Extended Event (0x4E, 78), 161 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When it appears one of their own shot an unarmed man on a Boston subway platform, the team must find the real killer while clearing their detective's name."
+    - Event Id: 0x0306 (774)
+      Start UTC: 2024/06/18 20:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 29 bytes
+        Language: eng
+        Event name: "Rizzoli & Isles"
+        Description: "Bassholes"
+      - Descriptor 1: Extended Event (0x4E, 78), 145 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jane and Maura find themselves in the world of competitive bass fishing when a tournament-leading fisherman is killed; Frankie loses a bet."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 533 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x68 (104)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x04DB (1243)
+      Start UTC: 2024/06/12 15:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 38 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "Bar Over Troubled Water"
+      - Descriptor 1: Extended Event (0x4E, 78), 114 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Taffer rescues a successful bar, and the beacon of a community, that was destroyed by flooding in Louisiana."
+    - Event Id: 0x04DC (1244)
+      Start UTC: 2024/06/12 16:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 47 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "Crazy Little Thing Called Selman"
+      - Descriptor 1: Extended Event (0x4E, 78), 102 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Taffer tries to tame the rocket-like owner of the famed Cooper Rocket before he does himself in."
+    - Event Id: 0x04DD (1245)
+      Start UTC: 2024/06/12 17:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Bar Rescue"
+        Description: "An Ode to the Cap'n"
+      - Descriptor 1: Extended Event (0x4E, 78), 132 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A daughter must grapple with the loss of her father as she struggles to find a way to keep his bar afloat and save his legacy."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 690 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xF8 (248)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x048A (1162)
+      Start UTC: 2024/06/14 21:38:00
+      Duration: 01:48:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 69 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Happily Ever After?"
+        Description: "The Princess and the Pea Brain"
+      - Descriptor 1: Extended Event (0x4E, 78), 253 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Cultures clash as Mahmoud joins Nicole in LA; Emily and Kobe are met with chaos in Cameroon; Manuel's secrecy causes suspicion; Gino's error means trouble for Jasmine's kids; Ed and Liz embrace a fresh start; Sophie reveals her next step with Rob."
+    - Event Id: 0x048B (1163)
+      Start UTC: 2024/06/14 23:26:00
+      Duration: 01:46:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 55 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "Can't Buy Me Love"
+      - Descriptor 1: Extended Event (0x4E, 78), 255 bytes
+        Descriptor number: 0, last: 1
+        Language: eng
+        Text: "Darcey and Tom prepare to meet face to face; Geoffrey questions Varya and the entire trip to Moscow; David anxiously awaits Lana; Stephanie and Erika get romantic; Ed faces regret, while Lisa faces Sojaboy's adoring fans at his music video premiere."
+      - Descriptor 2: Extended Event (0x4E, 78), 6 bytes
+        Descriptor number: 1, last: 1
+        Language: eng
+        Text: ""
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 513 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x04C4 (1220)
+      Start UTC: 2024/06/17 09:47:00
+      Duration: 00:48:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 45 bytes
+        Language: eng
+        Event name: "Toddlers & Tiaras"
+        Description: "Cheetah-licious Pageant"
+      - Descriptor 1: Extended Event (0x4E, 78), 104 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "It gets wild for Brooklyn, 21 months, Bella, 2, and Emma Belle, 5, at the pageant in Quapaw, Okla."
+    - Event Id: 0x04C5 (1221)
+      Start UTC: 2024/06/17 10:35:00
+      Duration: 00:25:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 23 bytes
+        Language: eng
+        Event name: "My Naked Secret"
+        Description: "Pam"
+    - Event Id: 0x04C6 (1222)
+      Start UTC: 2024/06/17 11:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 53 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "Love Can't Wait"
+      - Descriptor 1: Extended Event (0x4E, 78), 224 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Ed, Avery, Geoffrey, Lisa, Stephanie, Yolanda and David are on a mission to meet their overseas soulmates in person for the very first time; nothing can stop them from seeing if their dreams of love can become reality."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 7, sections: 1, total size: 594 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0336 (822)
+      Start UTC: 2024/06/17 09:00:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 22 bytes
+        Language: eng
+        Event name: "Frogger"
+        Description: "Frogs Legs"
+      - Descriptor 1: Extended Event (0x4E, 78), 184 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Fierceness reaches a whole new level as Froggers compete to conquer the toughest Frogger crossing, Ribbit River, to rescue five baby froglets and win a $10,000 golden fanny pack."
+    - Event Id: 0x0337 (823)
+      Start UTC: 2024/06/17 09:45:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 26 bytes
+        Language: eng
+        Event name: "Frogger"
+        Description: "Leapin' Ladies"
+      - Descriptor 1: Extended Event (0x4E, 78), 223 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Size and athleticism are no match for courage and determination as six Froggers take on Ribbit River and Frogs in Space, delivering a surprise to Boss Toad that ends with one taking home the $10,000 golden fanny pack."
+    - Event Id: 0x0338 (824)
+      Start UTC: 2024/06/17 10:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "SYFY Games"
+        Description: ""
+    - Event Id: 0x0339 (825)
+      Start UTC: 2024/06/17 11:00:00
+      Duration: 03:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 21 bytes
+        Language: eng
+        Event name: "Paid Programming"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 23 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Paid programming."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 7, sections: 1, total size: 566 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x20 (32)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0296 (662)
+      Start UTC: 2024/06/11 14:00:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 33 bytes
+        Language: eng
+        Event name: "Almost Paradise"
+        Description: "It's Personal"
+      - Descriptor 1: Extended Event (0x4E, 78), 250 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When the body of a friend of Detective Alamares washes up on a beach, Alex suspects the international smugglers who just checked in at the resort may be involved; while Ernesto tracks down the murderer, Alex goes under cover with Detective Kai."
+    - Event Id: 0x0297 (663)
+      Start UTC: 2024/06/11 14:50:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Magnum P.I."
+        Description: "Blood in the Water"
+      - Descriptor 1: Extended Event (0x4E, 78), 199 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "When Magnum and Higgins get "yacht-jacked," Higgins gets shot, and she and Magnum are stranded at sea, struggling to reach land before she bleeds out and the culprits return to finish them off."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 30, sections: 1, total size: 101 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x023A (570)
+      Start UTC: 2024/06/17 09:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 39 bytes
+        Language: eng
+        Event name: "Way Too Early With Jonathan Lemire"
+        Description: ""
+    - Event Id: 0x023B (571)
+      Start UTC: 2024/06/17 10:00:00
+      Duration: 04:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 16 bytes
+        Language: eng
+        Event name: "Morning Joe"
+        Description: ""
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 18 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x80 (128)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 18 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xA0 (160)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 30, sections: 1, total size: 143 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xA8 (168)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01E9 (489)
+      Start UTC: 2024/06/13 15:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 29 bytes
+        Language: eng
+        Event name: "JosØ DŦaz-Balart Reports"
+        Description: ""
+    - Event Id: 0x01EA (490)
+      Start UTC: 2024/06/13 16:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 28 bytes
+        Language: eng
+        Event name: "Andrea Mitchell Reports"
+        Description: ""
+    - Event Id: 0x01EB (491)
+      Start UTC: 2024/06/13 17:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 26 bytes
+        Language: eng
+        Event name: "Chris Jansing Reports"
+        Description: ""
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 1205 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE0 (224)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x042E (1070)
+      Start UTC: 2024/06/14 12:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 49 bytes
+        Language: eng
+        Event name: "Yum and Yummer"
+        Description: "Winner, Winner, Chicken Dinner"
+      - Descriptor 1: Extended Event (0x4E, 78), 106 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Eddie Jackson hunts for the best chicken dinners; these favorite dishes are trashy, messy and spicy."
+    - Event Id: 0x042F (1071)
+      Start UTC: 2024/06/14 12:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 34 bytes
+        Language: eng
+        Event name: "Yum and Yummer"
+        Description: "Summertime Eats"
+      - Descriptor 1: Extended Event (0x4E, 78), 175 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Summer is the time when vegetables are fresh, seafood is abundant, and views are in ready supply; Eddie Jackson leads a full tour of the most flavorful time of the year."
+    - Event Id: 0x0430 (1072)
+      Start UTC: 2024/06/14 13:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 51 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Amsterdam"
+      - Descriptor 1: Extended Event (0x4E, 78), 82 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Bitterballen and haring in the Netherlands for the best eating in Amsterdam."
+    - Event Id: 0x0431 (1073)
+      Start UTC: 2024/06/14 13:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 49 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Chicago"
+      - Descriptor 1: Extended Event (0x4E, 78), 176 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Chicago, Illinois, is a world-class food paradise; Andrew explores Windy City classics, from deep dish pizza and all-beef hot dogs to chicken Vesuvio and Garrett Popcorn."
+    - Event Id: 0x0432 (1074)
+      Start UTC: 2024/06/14 14:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 50 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Veracruz"
+      - Descriptor 1: Extended Event (0x4E, 78), 131 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A dish that includes a whole boiled octopus; Chile relleno; picaditas; a towering seafood cocktail known as Vuelve A La Vida."
+    - Event Id: 0x0433 (1075)
+      Start UTC: 2024/06/14 14:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 48 bytes
+        Language: eng
+        Event name: "Bizarre Foods: Delicious Destinations"
+        Description: "Vienna"
+      - Descriptor 1: Extended Event (0x4E, 78), 140 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Sachertorte, an Austrian dessert, schnitzel, frankfurter sausage and other classics in Vienna enjoyed by emperors and commoners alike."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 19, sections: 1, total size: 890 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x20 (32)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0454 (1108)
+      Start UTC: 2024/06/15 12:00:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Cheap Eats"
+        Description: "Far From the Farm"
+      - Descriptor 1: Extended Event (0x4E, 78), 222 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Ali starts his day in Des Moines with crisp and cheesy breakfast nachos, then has a roasted chicken lunch with mashed potatoes and onion rings before snacking on a Napoleon and finishes with a dinner of seafood stew."
+    - Event Id: 0x0455 (1109)
+      Start UTC: 2024/06/15 12:30:00
+      Duration: 00:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 27 bytes
+        Language: eng
+        Event name: "Cheap Eats"
+        Description: "C-Ville Eats"
+      - Descriptor 1: Extended Event (0x4E, 78), 184 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Ali visits Charlottesville, Va. for breakfast, lunch, dinner and a snack; college town food has never tasted so good as Ali starts with a breakfast bagel chock full of deli meat."
+    - Event Id: 0x0456 (1110)
+      Start UTC: 2024/06/15 13:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 32 bytes
+        Language: eng
+        Event name: "Man's Greatest Food"
+        Description: "Fired Up"
+      - Descriptor 1: Extended Event (0x4E, 78), 149 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Roger Mooking highlights the best fire and smoke-kissed dishes across the U.S.; chefs offer recipes and more on how to cook over an open flame."
+    - Event Id: 0x0457 (1111)
+      Start UTC: 2024/06/15 14:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 31 bytes
+        Language: eng
+        Event name: "Man's Greatest Food"
+        Description: "Italian"
+      - Descriptor 1: Extended Event (0x4E, 78), 131 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Roger Mooking counts the best Italian dishes in the U.S.; chefs share authentic recipes and tips for making an Italian feast."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 6, sections: 1, total size: 513 bytes
+  - Section 0:
+    Service Id: 0x0884 (2180)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xD0 (208)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0274 (628)
+      Start UTC: 2024/06/10 06:40:00
+      Duration: 00:50:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 22 bytes
+        Language: eng
+        Event name: "Coroner"
+        Description: "True Crime"
+      - Descriptor 1: Extended Event (0x4E, 78), 178 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Jenny pieces together a distinct body clue and realizes she has seen it before; Donovan distances himself from Jenny and Malik as he leans into a support group with his ex."
+    - Event Id: 0x0275 (629)
+      Start UTC: 2024/06/10 07:30:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 43 bytes
+        Language: eng
+        Event name: "Vagrant Queen"
+        Description: "Sunshine Express Yourself"
+      - Descriptor 1: Extended Event (0x4E, 78), 101 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Elida leaves the team to take a scavenger job while Isaac and Amae battle hijackers on a train."
+    - Event Id: 0x0276 (630)
+      Start UTC: 2024/06/10 08:15:00
+      Duration: 00:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "Vagrant Queen"
+        Description: "No Clue"
+      - Descriptor 1: Extended Event (0x4E, 78), 78 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "The team find themselves in the middle of a very strange murder mystery."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 16, sections: 1, total size: 309 bytes
+  - Section 0:
+    Service Id: 0x0816 (2070)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x48 (72)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x03E9 (1001)
+      Start UTC: 2024/06/08 04:44:00
+      Duration: 01:46:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 59 bytes
+        Language: eng
+        Event name: "90 Day FiancØ: Before the 90 Days"
+        Description: "The NeverEnding Story"
+      - Descriptor 1: Extended Event (0x4E, 78), 216 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Stephanie reveals a secret; Geoffrey follows his heart; Darcey looks ahead to the future; David and Lana spend their last bit of time together; Ed hopes for a second chance, and Lisa and Usman must say goodbye."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 20, sections: 1, total size: 613 bytes
+  - Section 0:
+    Service Id: 0x08A2 (2210)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x88 (136)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0346 (838)
+      Start UTC: 2024/06/09 03:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 40 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Morimoto vs. Cohen"
+      - Descriptor 1: Extended Event (0x4E, 78), 63 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Vegetarian chef Amanda Cohen takes on Iron Chef Morimoto."
+    - Event Id: 0x0347 (839)
+      Start UTC: 2024/06/09 04:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 41 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Forgione vs. Waxman"
+      - Descriptor 1: Extended Event (0x4E, 78), 169 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Iron Chef Marc Forgione plays the role of sous chef to his father, Larry Forgione, as the two take on culinary legend and close family friend chef Jonathan Waxman."
+    - Event Id: 0x0348 (840)
+      Start UTC: 2024/06/09 05:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 39 bytes
+        Language: eng
+        Event name: "Iron Chef America"
+        Description: "Garces vs. Spence"
+      - Descriptor 1: Extended Event (0x4E, 78), 195 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Seattle chef Carolynn Spence brings her Pacific Northwest cuisine into Kitchen Stadium to battle Iron Chef Jose Garces; Marcel Vigneron and Lesley Bargar Suter judge the crustaceous battle."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 144 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x98 (152)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x0531 (1329)
+      Start UTC: 2024/06/09 09:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x0532 (1330)
+      Start UTC: 2024/06/09 10:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "R&B Vibes"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 40 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Popular R&B artists are showcased."
+    - Event Id: 0x0533 (1331)
+      Start UTC: 2024/06/09 11:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Big Chune"
+        Description: ""
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 216 bytes
+  - Section 0:
+    Service Id: 0x07D0 (2000)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x80 (128)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x047B (1147)
+      Start UTC: 2024/06/09 01:25:00
+      Duration: 02:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 25 bytes
+        Language: eng
+        Event name: "The Hangover Part II"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 157 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Hoping to avoid the mayhem that marked his friend's Las Vegas bachelor party, Stu opts for what he thinks will be a safe prewedding brunch in Thailand."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 24, sections: 1, total size: 230 bytes
+  - Section 0:
+    Service Id: 0x0866 (2150)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xA8 (168)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x021A (538)
+      Start UTC: 2024/06/09 16:00:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 52 bytes
+        Language: eng
+        Event name: "The Life & Murder of Nicole Brown Simpson"
+        Description: "Part 2"
+      - Descriptor 1: Extended Event (0x4E, 78), 144 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "With OJ as the prime suspect of Nicole's murder, he kicks off six months of media mayhem and shocking discoveries leading up to the trial."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 2, sections: 1, total size: 162 bytes
+  - Section 0:
+    Service Id: 0x087A (2170)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x48 (72)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x02D4 (724)
+      Start UTC: 2024/06/08 05:51:00
+      Duration: 02:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 13 bytes
+        Language: eng
+        Event name: "I, Robot"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 115 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "In 2035 a Chicago homicide detective tracks a sophisticated robot accused of murdering a visionary scientist."
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 31, sections: 1, total size: 143 bytes
+  - Section 0:
+    Service Id: 0x088E (2190)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE8 (232)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x01AD (429)
+      Start UTC: 2024/06/10 15:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 29 bytes
+        Language: eng
+        Event name: "JosØ DŦaz-Balart Reports"
+        Description: ""
+    - Event Id: 0x01AE (430)
+      Start UTC: 2024/06/10 16:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 28 bytes
+        Language: eng
+        Event name: "Andrea Mitchell Reports"
+        Description: ""
+    - Event Id: 0x01AF (431)
+      Start UTC: 2024/06/10 17:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 26 bytes
+        Language: eng
+        Event name: "Chris Jansing Reports"
+        Description: ""
+
+* EIT schedule Actual, TID 0x50 (80), PID 0x0012 (18)
+  Version: 12, sections: 1, total size: 99 bytes
+  - Section 0:
+    Service Id: 0x08CA (2250)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xE8 (232)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x00DE (222)
+      Start UTC: 2024/06/10 16:30:00
+      Duration: 05:30:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 21 bytes
+        Language: eng
+        Event name: "Chappelle's Show"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 44 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "Sketch comedy starring Dave Chappelle."
+
+* EIT schedule Actual, TID 0x51 (81), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 315 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0xF8 (248)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05DC (1500)
+      Start UTC: 2024/06/14 21:52:00
+      Duration: 01:40:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 15 bytes
+        Language: eng
+        Event name: "Due Season"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 131 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "In order to stay at the conservatory of her dreams, Vicky Waters must use her talent as a gospel singer to win a competition."
+    - Event Id: 0x05DD (1501)
+      Start UTC: 2024/06/14 23:32:00
+      Duration: 01:45:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 21 bytes
+        Language: eng
+        Event name: "Dear Best Friend"
+        Description: ""
+      - Descriptor 1: Extended Event (0x4E, 78), 98 bytes
+        Descriptor number: 0, last: 0
+        Language: eng
+        Text: "A man hatches a devious plot that involves a surrogate pregnancy and the murder of his wife."
+
+* EIT schedule Actual, TID 0x52 (82), PID 0x0012 (18)
+  Version: 4, sections: 1, total size: 102 bytes
+  - Section 0:
+    Service Id: 0x0730 (1840)
+    TS Id: 0x0005 (5)
+    Original Network Id: 0x0005 (5)
+    Segment last section: 0x50 (80)
+    Last Table Id: 0x56 (86), EIT schedule Actual
+    - Event Id: 0x05FD (1533)
+      Start UTC: 2024/06/16 06:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x05FE (1534)
+      Start UTC: 2024/06/16 07:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+    - Event Id: 0x05FF (1535)
+      Start UTC: 2024/06/16 08:00:00
+      Duration: 01:00:00
+      Running status: not running
+      CA mode: free
+      - Descriptor 0: Short Event (0x4D, 77), 14 bytes
+        Language: eng
+        Event name: "Music Mix"
+        Description: ""
+
